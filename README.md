@@ -14,5 +14,5 @@ I'm a 20-year-old computer science student. I'm currently working on a variety o
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![Arduino](https://skillicons.dev/icons?i=arduino)
 
-## Social
-[**TryHackMe**](https://tryhackme.com/p/cnd)
+## 🛡️ Cybersecurity Journey
+![**TryHackMe**](https://tryhackme-badges.s3.amazonaws.com/cnd.png)

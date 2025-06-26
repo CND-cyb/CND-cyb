@@ -1,4 +1,4 @@
-# 🌑 CND
+# CND
 
 **`IT Student (Cybersecurity/Networking/Programming)`**
 

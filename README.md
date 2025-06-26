@@ -6,8 +6,13 @@ I'm a 20-year-old computer science student. I'm currently working on a variety o
 
 ## Skills & Technologies
 ![C++](https://skillicons.dev/icons?i=cpp)
+![C](https://skillicons.dev/icons?i=c)
 ![Python](https://skillicons.dev/icons?i=python)
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
 ![PHP](https://skillicons.dev/icons?i=php)
 ![Linux](https://skillicons.dev/icons?i=linux)
+![Arduino](https://skillicons.dev/icons?i=arduino)
+
+## Social
+[**TryHackMe**](https://tryhackme.com/p/cnd)

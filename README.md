@@ -17,3 +17,4 @@ I'm a 20-year-old computer science student. I'm currently working on a variety o
 
 ### 🧰 Tools I've Learned Through TryHackMe
 ![Wireshark](https://github.com/LelouchFR/skill-icons/blob/main/assets/wireshark-auto.svg)
+![Snort](https://www.vectorlogo.zone/logos/snort/snort-icon.svg)

@@ -16,4 +16,4 @@ I'm a 20-year-old computer science student. I'm currently working on a variety o
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/cnd.png)
 
 ### 🧰 Tools I've Learned Through TryHackMe
-![Arduino](https://comptoir-du-libre.org/en/softwares/644)
+![Wireshark](https://github.com/LelouchFR/skill-icons/blob/main/assets/wireshark-auto.svg)

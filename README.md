@@ -17,7 +17,7 @@ I'm a 20-year-old computer science student. I'm currently working on a variety o
 
 ### 🧰 Tools I've Learned Through TryHackMe
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Wireshark_Logo.svg" alt="Wireshark" width="60" height="60"/>
+  <img src="https://comptoir-du-libre.org/en/softwares/644" alt="Wireshark" width="60" height="60"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Snort_logo.png" alt="Snort" width="70" height="60"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Nmap_logo.svg" alt="Nmap" width="60" height="60"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Metasploit_logo_and_wordmark.svg" alt="Metasploit" width="80" height="60"/>

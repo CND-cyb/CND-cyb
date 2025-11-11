@@ -13,7 +13,7 @@ I'm a 20-year-old computer science student. I'm currently working on a variety o
 ![Arduino](https://skillicons.dev/icons?i=arduino)
 
 ## 🛡️ Cybersecurity Journey
-![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3145800)
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/cnd.png)
 
 ### 🧰 Tools I've Learned Through TryHackMe
 ![Wireshark](https://go-skill-icons.vercel.app/api/icons?i=wireshark,burpsuite&titles=true)

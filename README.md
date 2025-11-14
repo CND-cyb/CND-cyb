@@ -1,4 +1,7 @@
-**`IT Student (Cybersecurity/Networking/Programming)`**
+<p align="center">
+  # CND
+  **`IT Student (Cybersecurity/Networking/Programming)`**
+</p>
 
 I'm a 20-year-old computer science student. I'm currently working on a variety of projects, both school-related and personal, mainly in the fields of cybersecurity and web development. I try to enrich my knowledge every day.
 

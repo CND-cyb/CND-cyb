@@ -1,7 +1,5 @@
-<p align="center">
-  # CND
-  **`IT Student (Cybersecurity/Networking/Programming)`**
-</p>
+<h1 align="center">CND</h1>
+<p align="center"><b><code>IT Student (Cybersecurity / Networking / Programming)</code></b></p>
 
 I'm a 20-year-old computer science student. I'm currently working on a variety of projects, both school-related and personal, mainly in the fields of cybersecurity and web development. I try to enrich my knowledge every day.
 

@@ -36,17 +36,17 @@ I'm a 20-year-old computer science student. I'm currently working on a variety o
       <td align="center" valign="top">
         🗓️ Nov 2024 <br/>
         🔗 <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-BCYDK6ZNW0.pdf">Credential</a><br/>
-        <em>TryHackMe Cybersecurity 101</em>
+        <p>TryHackMe Cybersecurity 101</p>
       </td>
       <td align="center" valign="top">
         🗓️ Oct 2024 <br/>
         🔗 <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-BCYDK6ZNW0.pdf">Credential</a><br/>
-        <em>TryHackMe Pre Security</em>
+        <p>TryHackMe Pre Security</p>
       </td>
       <td align="center" valign="top">
         🗓️ Nov 2023 <br/>
         🔗 <a href="https://www.credly.com/badges/1381d01a-df15-4792-b684-ed13abf07da2/public_url">Credential</a><br/>
-        <em>IBM Cybersecurity Fundamentals</em>
+        <p>IBM Cybersecurity Fundamentals</p>
       </td>
     </tr>
   </table>

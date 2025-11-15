@@ -66,7 +66,7 @@ I'm a 20-year-old computer science student. I'm currently working on a variety o
 
 ### Programmation  
 <div align="center">  
-       <img src="https://skillicons.dev/icons?i=python,cpp,html,css,php,arduino&perline=3" /> 
+       <img src="https://skillicons.dev/icons?i=python,cpp,html,css,php,arduino,bash&perline=3" /> 
 </div>
 </a>
  </td><td valign="top" width="25%">

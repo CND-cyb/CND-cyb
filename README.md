@@ -57,9 +57,9 @@ I'm a 20-year-old computer science student. I'm currently working on a variety o
 ---
 
 ## 🛡️ Cybersecurity Journey
+<div align="center">
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/cnd.png) <br>
-![TryHackMe](https://go-skill-icons.vercel.app/api/icons?i=tryhackme) <a href="https://tryhackme.com/p/cnd">TryHackMe Profile</a><br/>
-![HackTheBox](https://go-skill-icons.vercel.app/api/icons?i=hackthebox) <a href="https://app.hackthebox.com/profile/overview">HackTheBox Profile</a><br/>
+</div>
 
 ---
 
@@ -78,7 +78,8 @@ I'm a 20-year-old computer science student. I'm currently working on a variety o
        <img src="https://go-skill-icons.vercel.app/api/icons?i=wireshark" />
        <img src="https://skills.syvixor.com/api/icons?perline=15&i=splunk" />
        <img src="https://go-skill-icons.vercel.app/api/icons?i=burpsuite&titles=true" /> 
-       <img src="https://skills.syvixor.com/api/icons?perline=15&i=elasticsearch" />
+       <a href="https://tryhackme.com/p/cnd"><img src="https://go-skill-icons.vercel.app/api/icons?i=tryhackme"/></a>
+       <a href="https://app.hackthebox.com/profile/overview"><img src="https://go-skill-icons.vercel.app/api/icons?i=hackthebox" />
 </div>
 </a>
 </td>

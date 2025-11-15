@@ -98,3 +98,25 @@ I'm a 20-year-old computer science student. I'm currently working on a variety o
 ![Elastic](https://skills.syvixor.com/api/icons?perline=15&i=elasticsearch)
 
 
+## Skill Set:
+<table><tr><td valign="top" width="25%">
+
+### Programmation  
+<div align="center">  
+       <img src="https://skillicons.dev/icons?i=python,cpp,html,css,php,arduino&perline=3" /> 
+</div>
+</a>
+ </td><td valign="top" width="25%">
+        
+### Cybersecurity
+<a href="https://github.com/tayyabadev">
+<div align="center">
+       <img src="https://go-skill-icons.vercel.app/api/icons?i=wireshark" />
+       <img src="https://skills.syvixor.com/api/icons?perline=15&i=splunk" />
+       <img src="https://go-skill-icons.vercel.app/api/icons?i=burpsuite&titles=true" /> 
+       <img src="https://skills.syvixor.com/api/icons?perline=15&i=elasticsearch" />
+</div>
+</a>
+</td>
+</tr></table>
+

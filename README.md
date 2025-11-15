@@ -61,7 +61,7 @@ I'm a 20-year-old computer science student. I'm currently working on a variety o
 
 ---
 
-## Skill Set:
+## 🎒 Skill Set
 <table align="center"><tr><td valign="top" width="25%">
 
 ### Programmation  

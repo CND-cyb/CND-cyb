@@ -58,6 +58,8 @@ I'm a 20-year-old computer science student. I'm currently working on a variety o
 
 ## 🛡️ Cybersecurity Journey
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/cnd.png)
+![TryHackMe](https://go-skill-icons.vercel.app/api/icons?i=tryhackme) <a href="https://tryhackme.com/p/cnd">TryHackMe Profile</a><br/>
+![HackTheBox](https://go-skill-icons.vercel.app/api/icons?i=hackthebox) <a href="https://app.hackthebox.com/profile/overview">HackTheBox Profile</a><br/>
 
 ---
 

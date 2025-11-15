@@ -89,3 +89,5 @@ I'm a 20-year-old computer science student. I'm currently working on a variety o
 
 ### 🧰 Tools I've Learned Through TryHackMe
 ![Wireshark](https://go-skill-icons.vercel.app/api/icons?i=wireshark,burpsuite&titles=true)
+![texte alternatif](./splunk.svg)
+

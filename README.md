@@ -58,7 +58,7 @@ I'm a 20-year-old computer science student. I'm currently working on a variety o
 
 ## 🛡️ Cybersecurity Journey
 <div align="center">
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/cnd.png) <br>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/cnd.png" />
 </div>
 
 ---

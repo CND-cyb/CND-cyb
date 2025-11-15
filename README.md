@@ -62,7 +62,7 @@ I'm a 20-year-old computer science student. I'm currently working on a variety o
 ---
 
 ## Skill Set:
-<table><tr><td valign="top" width="25%">
+<table align="center"><tr><td valign="top" width="25%">
 
 ### Programmation  
 <div align="center">  

@@ -84,11 +84,17 @@ I'm a 20-year-old computer science student. I'm currently working on a variety o
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![Arduino](https://skillicons.dev/icons?i=arduino)
 
+---
+
 ## 🛡️ Cybersecurity Journey
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/cnd.png)
 
+---
+
 ### 🧰 Tools I've Learned Through TryHackMe
-![Wireshark](https://go-skill-icons.vercel.app/api/icons?i=wireshark,burpsuite&titles=true)
+![Wireshark](https://go-skill-icons.vercel.app/api/icons?i=wireshark&titles=true)
 ![Splunk](https://skills.syvixor.com/api/icons?perline=15&i=splunk)
+![BurpSuite](https://go-skill-icons.vercel.app/api/icons?i=burpsuite&titles=true)
+![Elastic](https://skills.syvixor.com/api/icons?perline=15&i=elasticsearch)
 
 

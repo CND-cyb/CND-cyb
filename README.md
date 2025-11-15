@@ -4,8 +4,8 @@
 
 I'm a 20-year-old computer science student. I'm currently working on a variety of projects, both school-related and personal, mainly in the fields of cybersecurity and programming. I try to enrich my knowledge every day.
 
+---
 
-<!-- Cloud Fundamentals Certifications -->
 <h2 align="center">🎓 My Cybersecurity Certifications</h2>
 
 <div align="center">
@@ -16,7 +16,6 @@ I'm a 20-year-old computer science student. I'm currently working on a variety o
       <col style="width:16.66%">
     </colgroup>
     <tr>
-      <!-- Icon Row -->
       <td align="center">
         <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-BCYDK6ZNW0.pdf">
           <img src="https://github.com/user-attachments/assets/fa7e920d-2b1f-420b-8372-14bfac128e92" alt="THM Cybersecurity 101" style="width:120px; max-width:100%; height:auto;" />
@@ -34,7 +33,6 @@ I'm a 20-year-old computer science student. I'm currently working on a variety o
       </td>
     </tr>
     <tr>
-      <!-- Text Row -->
       <td align="center" valign="top">
         🗓️ Nov 2024 <br/>
         🔗 <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-BCYDK6ZNW0.pdf">Credential</a><br/>

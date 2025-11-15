@@ -54,49 +54,12 @@ I'm a 20-year-old computer science student. I'm currently working on a variety o
   </table>
 </div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## 🧱 Skills & Technologies
-![C++](https://skillicons.dev/icons?i=cpp)
-![C](https://skillicons.dev/icons?i=c)
-![Python](https://skillicons.dev/icons?i=python)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![PHP](https://skillicons.dev/icons?i=php)
-![Linux](https://skillicons.dev/icons?i=linux)
-![Arduino](https://skillicons.dev/icons?i=arduino)
-
 ---
 
 ## 🛡️ Cybersecurity Journey
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/cnd.png)
 
 ---
-
-### 🧰 Tools I've Learned Through TryHackMe
-![Wireshark](https://go-skill-icons.vercel.app/api/icons?i=wireshark&titles=true)
-![Splunk](https://skills.syvixor.com/api/icons?perline=15&i=splunk)
-![BurpSuite](https://go-skill-icons.vercel.app/api/icons?i=burpsuite&titles=true)
-![Elastic](https://skills.syvixor.com/api/icons?perline=15&i=elasticsearch)
-
 
 ## Skill Set:
 <table><tr><td valign="top" width="25%">
@@ -109,7 +72,6 @@ I'm a 20-year-old computer science student. I'm currently working on a variety o
  </td><td valign="top" width="25%">
         
 ### Cybersecurity
-<a href="https://github.com/tayyabadev">
 <div align="center">
        <img src="https://go-skill-icons.vercel.app/api/icons?i=wireshark" />
        <img src="https://skills.syvixor.com/api/icons?perline=15&i=splunk" />

@@ -82,4 +82,3 @@ I'm a 20-year-old computer science student. I'm currently working on a variety o
 </a>
 </td>
 </tr></table>
-
